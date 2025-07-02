@@ -1,0 +1,13 @@
+
+body {
+  background: #f4f4f4;
+}
+.logo {
+  max-width: 120px;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px;
+}
+.badge {
+  font-size: 0.8rem;
+}
